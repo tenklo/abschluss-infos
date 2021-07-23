@@ -1,22 +1,25 @@
-* Abschluss-Infos
-** Inhaltsverzeichnis                                                 :TOC:
-- [[#abschluss-infos][Abschluss-Infos]]
-  - [[#über][Über]]
-  - [[#der-unterricht-im-dritten-schuljahr][Der Unterricht im dritten Schuljahr]]
-  - [[#berufsschule-vs-ihk-prüfungen][Berufsschule vs. IHK Prüfungen]]
-  - [[#schriftliche-prüfungen][Schriftliche Prüfungen]]
-  - [[#mündliche-prüfung][Mündliche Prüfung]]
-  - [[#abschlussnoten][Abschlussnoten]]
-  - [[#prüfungsvorbereitung][Prüfungsvorbereitung]]
+* Inhaltsverzeichnis                                                    :TOC:
+- [[#über][Über]]
+- [[#der-unterricht-im-dritten-schuljahr][Der Unterricht im dritten Schuljahr]]
+- [[#berufsschule-vs-ihk-prüfungen][Berufsschule vs. IHK Prüfungen]]
+- [[#schriftliche-prüfungen][Schriftliche Prüfungen]]
+  - [[#1-tag-der-prüfungen][1. Tag der Prüfungen]]
+  - [[#2-tag-der-prüfungen][2. Tag der Prüfungen]]
+  - [[#genereller--ablauf][Genereller  Ablauf]]
+  - [[#bewertung][Bewertung]]
+- [[#mündliche-prüfung][Mündliche Prüfung]]
+- [[#abschlussnoten][Abschlussnoten]]
+- [[#prüfungsvorbereitung][Prüfungsvorbereitung]]
+  - [[#alte-prüfungen][Alte Prüfungen]]
 
-** Über
+* Über
 
 Hier werden Informationen bezüglich des Abschlusses der Ausbildung zum Fachinformatiker für Anwendungsentwicklung zusammengetragen.
 Die Informationen sind gesammelt für den Abschluss an der [[https:its-stuttgart.de][IT Schule Stuttgart]] im Land Baden-Württemberg.
 Sie gelten für das Jahr 2021 und legen den Fokus auf eine vorzeitige Zulassung zur Prüfung.
 Somit sind sie eventuell nur eingeschränkt für andere Orte relevant.
 
-** Der Unterricht im dritten Schuljahr
+* Der Unterricht im dritten Schuljahr
 
 - *muss* nicht besucht werden
 - wenn gewünscht weiterhin möglich
@@ -24,7 +27,7 @@ Somit sind sie eventuell nur eingeschränkt für andere Orte relevant.
   
 - daher wird *freiwilliges* Angebot: Bis Prüfung außerhalb des Unterrichts in gesondertem Raum vorbereiten
 
-** Berufsschule vs. IHK Prüfungen
+* Berufsschule vs. IHK Prüfungen
 
 Berufsschule und IHK prüfen und bewerten, zumindest in der Theorie, getrennt voneinander.
 
@@ -37,9 +40,9 @@ Die Prüfungen
 - der IHK (Tag 2) zählen für das Zeugnis der IHK
 - Nur die WiSo Prüfung (Tag 1) wird in beide Zeugnisse aufgenommen
 
-** Schriftliche Prüfungen
+* Schriftliche Prüfungen
 
-*** 1. Tag der Prüfungen
+** 1. Tag der Prüfungen
 
   - Deutsch
   - GK
@@ -47,7 +50,7 @@ Die Prüfungen
     - als einziges von IHK und von Schule bewertet bei nur einmal schreiben
     - also einzige Prüfung an Tag 1 die für IHK relevant ist
       
-*** 2. Tag der Prüfungen
+** 2. Tag der Prüfungen
 
     - GA 1: Fachspezifisch
       - ist erste Aufgabe am 1. Tag
@@ -55,7 +58,7 @@ Die Prüfungen
       - ist erste Aufgabe am 1. Tag
     - finden in Berufsschule am PC statt
   
-*** Genereller  Ablauf
+** Genereller  Ablauf
 
 - Raum + Sitzplatz darin ist vorher festgelegt
 - Während Prüfung wie üblich in Klassenarbeiten Internetzugang gesperrt (logo didact?)
@@ -63,21 +66,21 @@ Die Prüfungen
 - zu Beginn der Zeit gibt es Aufgaben in Papierform
 - Abgabe ist in Papierform oder digital möglich
 
-*** Bewertung
+** Bewertung
 
 - wird zwei mal *intern* durch die Lehrer der eigenen Berufsschule korrigiert
 - eigener Fachlehrer + und Kollege
   
-** Mündliche Prüfung
-** Abschlussnoten
+* Mündliche Prüfung
+* Abschlussnoten
 
 - Berufsschulzeugnis mit allen Noten inkl. IHK
 - IHK Zeugnis mit nur IHK relevanten Bewertungen
 - jedes Blaue Plus in der unübersichtlichen Übersicht ist im Zeugnis eine Note
 
-** Prüfungsvorbereitung
+* Prüfungsvorbereitung
 
-*** Alte Prüfungen
+** Alte Prüfungen
 - das Herausgeben alter Prüfungen ist offiziell verboten
 - Klassenlehrer /könnte/ welche raus geben
 
