@@ -1,3 +1,11 @@
+* Über
+
+Hier werden Informationen bezüglich des Abschlusses der Ausbildung zum Fachinformatiker für Anwendungsentwicklung zusammengetragen.
+
+Die Informationen sind gesammelt für den Abschluss an der [[https:its-stuttgart.de][IT Schule Stuttgart]] im Land Baden-Württemberg.
+Sie gelten für das Jahr 2021 und legen den Fokus auf eine vorzeitige Zulassung zur Prüfung.
+Somit sind sie eventuell nur eingeschränkt für andere Orte oder Umstände relevant.
+
 * Inhaltsverzeichnis                                                    :TOC:
 - [[#über][Über]]
 - [[#der-unterricht-im-dritten-schuljahr][Der Unterricht im dritten Schuljahr]]
@@ -11,14 +19,6 @@
 - [[#abschlussnoten][Abschlussnoten]]
 - [[#prüfungsvorbereitung][Prüfungsvorbereitung]]
   - [[#alte-prüfungen][Alte Prüfungen]]
-
-* Über
-
-Hier werden Informationen bezüglich des Abschlusses der Ausbildung zum Fachinformatiker für Anwendungsentwicklung zusammengetragen.
-
-Die Informationen sind gesammelt für den Abschluss an der [[https:its-stuttgart.de][IT Schule Stuttgart]] im Land Baden-Württemberg.
-Sie gelten für das Jahr 2021 und legen den Fokus auf eine vorzeitige Zulassung zur Prüfung.
-Somit sind sie eventuell nur eingeschränkt für andere Orte oder Umstände relevant.
 
 * Der Unterricht im dritten Schuljahr
 
