@@ -32,9 +32,9 @@ Somit sind sie eventuell nur eingeschränkt für andere Orte oder Umstände rele
 
 Berufsschule und IHK prüfen und bewerten, zumindest in der Theorie, getrennt voneinander.
 
-In der Praxis
-- werden alle Prüfungen im Gebäude der Berufsschule geschrieben
-- sowie von den Lehrern der eigenen Berufsschule bewertet
+In der Praxis werden alle Prüfungen
+- im Gebäude der Berufsschule geschrieben
+- von den Lehrern der (eigenen) Berufsschule bewertet
 
 Die Prüfungen
 - der Berufsschule (Tag 1) zählen für das Berufsschulzeugnis
