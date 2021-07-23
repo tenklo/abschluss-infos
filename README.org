@@ -57,6 +57,7 @@ Die Prüfungen
 - wird zwei mal *intern* durch die Lehrer der eigenen Berufsschule korrigiert
 - eigener Fachlehrer + und Kollege
   
+* Mündliche Prüfung
 * Abschlussnoten
 
 - Berufsschulzeugnis mit allen Noten inkl. IHK
