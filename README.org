@@ -15,6 +15,7 @@
 * Über
 
 Hier werden Informationen bezüglich des Abschlusses der Ausbildung zum Fachinformatiker für Anwendungsentwicklung zusammengetragen.
+
 Die Informationen sind gesammelt für den Abschluss an der [[https:its-stuttgart.de][IT Schule Stuttgart]] im Land Baden-Württemberg.
 Sie gelten für das Jahr 2021 und legen den Fokus auf eine vorzeitige Zulassung zur Prüfung.
 Somit sind sie eventuell nur eingeschränkt für andere Orte relevant.
