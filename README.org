@@ -1,0 +1,71 @@
+* Über
+
+Hier werden Informationen bezüglich des Abschlusses der Ausbildung zum Fachinformatiker für Anwendungsentwicklung zusammengetragen.
+Die Informationen sind gesammelt für den Abschluss an der [[https:its-stuttgart.de][IT Schule Stuttgart]] im Land Baden-Württemberg.
+Sie gelten für das Jahr 2021 und legen den Fokus auf eine vorzeitige Zulassung zu Prüfung.
+Somit sind sie eventuell nur eingeschränkt für andere Orte relevant.
+
+* Der Unterricht im dritten Schuljahr
+
+- *muss* nicht besucht werden
+- wenn gewünscht weiterhin möglich
+- es gilt allerdings weiterhin Anwesenheitspflicht in der Schule
+  
+- daher wird *freiwilliges* Angebot: Bis Prüfung außerhalb des Unterrichts in gesondertem Raum vorbereiten
+
+* Berufsschule vs IHK Prüfungen
+
+Berufsschule und IHK prüfen und bewerten, zumindest in der Theorie, getrennt voneinander.
+
+In der Praxis
+- werden alle Prüfungen im Gebäude der Berufsschule geschrieben
+- sowie von den Lehrern der eigenen Berufsschule bewertet
+
+Die Prüfungen
+- der Berufsschule (Tag 1) zählen für das Berufsschulzeugnis
+- der IHK (Tag 2) zählen für das Zeugnis der IHK
+- Nur die WiSo Prüfung (Tag 1) wird in beide Zeugnisse aufgenommen
+
+* Schriftliche Prüfungen
+
+** 1. Tag der Prüfungen
+
+  - Deutsch
+  - GK
+  - Wirtschafs- und Sozialkunde
+    - als einziges von IHK und von Schule bewertet bei nur einmal schreiben
+    - also einzige Prüfung an Tag 1 die für IHK relevant ist
+      
+** 2. Tag der Prüfungen
+
+    - GA 1: Fachspezifisch
+      - ist erste Aufgabe am 1. Tag
+    - GA 2: Allgemein
+      - ist erste Aufgabe am 1. Tag
+    - finden in BS am PC statt
+  
+** Genereller  Ablauf
+
+- Raum + Sitzplatz darin ist vorher festgelegt
+- Während Prüfung wie üblich in KAs Internetzugang gesperrt (logo didact?)
+- Zusatzmaterial ist direkt auf dem PC verfügbar
+- zu Beginn der Zeit gibt es Aufgaben in Papierform
+- Abgabe ist in Papierform oder digital möglich
+
+** Bewertung
+
+- wird zwei mal *intern* durch die Lehrer der eigenen Berufsschule korrigiert
+- eigener Fachlehrer + und Kollege
+  
+* Abschlussnoten
+
+- Berufsschulzeugnis mit allen Noten inkl IHK
+- IHK Zeugnis mit nur IHK relevanten Bewertungen
+- jedes Blaue Plus in der unübersichtlichen Übersicht ist im Zeugnis eine Note
+
+* Prüfungsvorbereitung
+
+** Alte Prüfungen
+- offiziell verboten
+- Klassenlehrer /könnte/ welche raus geben
+
