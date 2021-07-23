@@ -44,19 +44,19 @@ Die Prüfungen
 
 ** 1. Tag der Prüfungen
 
-  - Deutsch
-  - GK
-  - Wirtschafts- und Sozialkunde
-    - als einziges von IHK und von Schule bewertet bei nur einmal schreiben
-    - also einzige Prüfung an Tag 1 die für IHK relevant ist
+- Deutsch
+- GK
+- Wirtschafts- und Sozialkunde
+  - als einziges von IHK und von Schule bewertet bei nur einmal schreiben
+  - also einzige Prüfung an Tag 1 die für IHK relevant ist
       
 ** 2. Tag der Prüfungen
 
-    - GA 1: Fachspezifisch
-      - ist erste Aufgabe am 1. Tag
-    - GA 2: Allgemein
-      - ist erste Aufgabe am 1. Tag
-    - finden in Berufsschule am PC statt
+- GA 1: Fachspezifisch
+  - ist erste Aufgabe am 2. Tag
+- GA 2: Allgemein
+  - ist erste Aufgabe am 2. Tag
+- finden in Berufsschule am PC statt
   
 ** Genereller  Ablauf
 
